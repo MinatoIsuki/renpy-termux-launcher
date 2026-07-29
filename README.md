@@ -1,5 +1,8 @@
 # renpy-termux-launcher
 A RenPy game launcher for Termux, running natively on device architecture without changing RenPy engine version (what JoiPlay does) or emulating (what Winlator does).
+>[!WARNING]
+> You will need Internet to download RenPy SDK if the engine version is different!<br>
+> If you're playing a game that uses the same engine version the downloaded SDK is, then the script will re-use that instead.
 
 <img width="1548" height="720" alt="screenshot" src="https://github.com/user-attachments/assets/ff059a29-8b95-417a-a414-63d9dd1f03be" />
 
