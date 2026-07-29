@@ -87,7 +87,7 @@ sh ~/startxfce4_debian.sh
 - Run this command:
 ```bash
 cd ~
-wget https://raw.githubusercontent.com/MinatoIsuki/renpy-termux-launcher/refs/heads/main/launch.sh
+wget https://raw.githubusercontent.com/MinatoIsuki/renpy-termux-launcher/main/launch.sh
 nano launch.sh
 ```
 - Modify `USB_PATH` to where you store all your games at (e.g. `~/storage/shared/Games`, depend on how you setup your games library)
