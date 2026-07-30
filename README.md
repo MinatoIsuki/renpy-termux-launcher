@@ -11,7 +11,7 @@ A RenPy game launcher for Termux, running natively on device architecture withou
 <summary>Why?</summary>
 For a while, JoiPlay has been my go-to solution for RenPy games. But it has changed.
 Since I want to play on both my phone and PC, I used a USB drive to copy the game into, so I can play the game wherever I go.
-But, there is an issue:
+But, there is an issue:<br>
 
 <img width="566" height="270" alt="image1" src="https://github.com/user-attachments/assets/e7d26500-c009-420f-b500-462db7fa13a9" />
   
